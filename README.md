@@ -1,2 +1,0 @@
-# myHuddle
-Landing page 
